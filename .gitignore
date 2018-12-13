@@ -1,0 +1,10 @@
+# See: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User Specific Files
+.idea/**/dictionaries
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/workspace.xml
+
+# Build Files
+out/
