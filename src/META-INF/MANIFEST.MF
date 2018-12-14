@@ -1,3 +1,5 @@
 Manifest-Version: 1.0
 Main-Class: com.nrhoffmann.minesweeper.App
-
+Application-Version: 1.0.0
+Application-Name: MinesweeperGame
+Created-By: Nathan Hoffmann
